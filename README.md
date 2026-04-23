@@ -135,6 +135,30 @@ Este projeto está sendo desenvolvido diretamente no **web editor do GitHub** (`
 
 Para este projeto, todo o trabalho será feito **diretamente no GitHub**, sem Codespaces e sem terminal local.
 
+## ⚙️ Usando o Web Editor do GitHub (github.dev)
+
+Este projeto está sendo desenvolvido diretamente no **web editor do GitHub** (`github.dev`), que é uma versão simplificada do VS Code no navegador.
+
+### O que dá para fazer
+- ✅ Criar, editar e excluir arquivos e pastas.
+- ✅ Visualizar mudanças nos arquivos.
+- ✅ Realizar **commits diretamente pelo Source Control** (ícone de ramificação na barra lateral esquerda).
+- ✅ Sincronizar alterações com o repositório no GitHub.
+
+### O que significam os marcadores
+- **A** → *Added*: arquivo novo criado, mas ainda não commitado.
+- **M** → *Modified*: arquivo existente que foi alterado.
+- **D** → *Deleted*: arquivo marcado para exclusão.
+
+### Como realizar um commit no web editor
+1. Clique no ícone de **Source Control** na barra lateral esquerda.  
+2. Selecione os arquivos modificados (ex.: `style.css` com o marcador **A**).  
+3. Clique em **Stage Changes** para preparar os arquivos.  
+4. Escreva uma mensagem de commit clara, por exemplo:  
+5. Clique em **Commit**.  
+6. Clique em **Sync Changes** para enviar ao GitHub.
+
+👉 Assim, não é necessário sair do web editor para fazer commits. Todo o fluxo pode ser feito dentro do próprio editor.
 
 
 
