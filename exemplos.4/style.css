@@ -1,0 +1,13 @@
+.container {
+  display: flex; /* Aqui a mágica acontece */
+  justify-content: space-around;
+  align-items: center;
+  height: 200px;
+  background-color: #ddd;
+}
+.card {
+  padding: 20px;
+  background: #3498db;
+  color: white;
+  border-radius: 8px;
+}
